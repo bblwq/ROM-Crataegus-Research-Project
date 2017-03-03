@@ -1,4 +1,4 @@
-##Program Instruction
+#Program Instruction
 
 1. Install Python 2.7 (32-bit) from: https://www.python.org/ftp/python/2.7.13/python-2.7.13.msi
 2. Make sure the following 'Path' are added to 'System variables':
@@ -23,5 +23,6 @@
 12. Indicate the number of specimens to process.
 13. The result will be stored in temp.csv.
 
-Note： All '|' are replaced by '!' because a filename contains '|' is illegal.
-      All '?' are replaced by '_' because a filename contains '?' is illegal.
+##Note:
+1. All '|' are replaced by '!' because a filename contains '|' is illegal.
+2. All '?' are replaced by '_' because a filename contains '?' is illegal.
