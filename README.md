@@ -1,8 +1,8 @@
 #Program Instruction
 1. Install Python 2.7 (32-bit) from: https://www.python.org/ftp/python/2.7.13/python-2.7.13.msi
 2. Make sure the following 'Path' are added to 'System variables':
-* C:\Python27\
-* C:\Python27\Scripts
+&ensp C:\Python27\
+&ensp C:\Python27\Scripts
 3. Install all dependncies for pandas: setuptools, Numpy, python-dateutil, pytz.
 * CMD Commands: pip install setuptools
 * pip install numpy
