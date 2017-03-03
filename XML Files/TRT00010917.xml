@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<SimpleDarwinRecordSet 
+  xmlns="http://rs.tdwg.org/dwc/xsd/simpledarwincore/" 
+  xmlns:dwr="http://rs.tdwg.org/dwc/xsd/simpledarwincore/" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  xmlns:dwc="http://rs.tdwg.org/dwc/terms/" 
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  <SimpleDarwinRecord>
+    <dcterms:type>PreservedSpecimen</dcterms:type>
+    <dcterms:modified>2014-07-24</dcterms:modified>
+    <dcterms:language>English</dcterms:language>
+    <dcterms:rightsHolder>http://www.rom.on.ca/en/copyright-policy</dcterms:rightsHolder>
+    <dwc:institutionCode>Royal Ontario Museum</dwc:institutionCode>
+    <dwc:collectionCode>TRT</dwc:collectionCode>
+    <dwc:datasetName></dwc:datasetName>
+    <dwc:occurrenceID>1799016.0</dwc:occurrenceID>
+    <dwc:catalogNumber>TRT00010917</dwc:catalogNumber>
+    <dwc:recordNumber>2195</dwc:recordNumber>
+    <dwc:recordedBy>Lance, R.W.</dwc:recordedBy>
+    <dwc:recordedBy></dwc:recordedBy>
+    <dwc:recordedBy></dwc:recordedBy>
+    <dwc:recordedBy></dwc:recordedBy>
+    <dwc:recordedBy></dwc:recordedBy>
+    <dwc:recordedBy></dwc:recordedBy>
+    <dwc:recordedBy></dwc:recordedBy>
+    <dwc:sex></dwc:sex>
+    <dwc:reproductiveCondition></dwc:reproductiveCondition>
+    <dwc:establishmentMeans></dwc:establishmentMeans>
+    <dwc:preparations>dried plant specimen</dwc:preparations>
+    <dwc:disposition>1 replicate</dwc:disposition>
+    <dwc:associatedReferences></dwc:associatedReferences>
+    <dwc:otherCatalogNumbers></dwc:otherCatalogNumbers>
+    <dwc:occurrenceRemarks></dwc:occurrenceRemarks>
+    <dwc:occurrenceRemarks></dwc:occurrenceRemarks>
+    <dwc:occurrenceRemarks></dwc:occurrenceRemarks>
+    <dwc:occurrenceRemarks></dwc:occurrenceRemarks>
+    <dwc:organismID></dwc:organismID>
+    <dwc:previousIdentifications></dwc:previousIdentifications>
+    <dwc:eventDate>2001-09-27</dwc:eventDate>
+    <dwc:verbatimEventDate></dwc:verbatimEventDate>
+    <dwc:habitat></dwc:habitat>
+    <dwc:fieldNotes>Fruit dull red, Mostly fallen. Twigs not 'weeping' but other entities with weeping habit nearby (Same plant as lance #2121)</dwc:fieldNotes>
+    <dwc:locationID></dwc:locationID>
+    <dwc:continent>North America</dwc:continent>
+    <dwc:country>United States</dwc:country>
+    <dwc:stateProvince>Georgia</dwc:stateProvince>
+    <dwc:county>Randolph Co.</dwc:county>
+    <dwc:locality>E side of US Hwy 27, 7 mi N of Clay Co. line, ca. 2.4 mi S of jct, with Bus. 27 and 2.2 mi S of Cuthbert City limits.; at edge of pine forest, near fenceline. S of mile 7 marker (N-bound)</dwc:locality>
+    <dwc:verbatimLocality>E side of US Hwy 27, 7 miles N of Clay Co. line, ca. 2.4 miles S of jct, with Bus. 27 and 2.2 miles S of Cuthbert City limits.; at edge of pine forest, near fenceline. S of "mile 7" marker (N-bound)</dwc:verbatimLocality>
+    <dwc:minimumElevationInMeters></dwc:minimumElevationInMeters>
+    <dwc:maximumElevationInMeters></dwc:maximumElevationInMeters>
+    <dwc:locationRemarks></dwc:locationRemarks>
+    <dwc:decimalLatitude></dwc:decimalLatitude>
+    <dwc:decimalLongitude></dwc:decimalLongitude>
+    <dwc:geodeticDatum></dwc:geodeticDatum>
+    <dwc:coordinateUncertaintyInMeters></dwc:coordinateUncertaintyInMeters>
+    <dwc:georeferencedBy></dwc:georeferencedBy>
+    <dwc:georeferenceDate></dwc:georeferenceDate>
+    <dwc:georeferenceProtocol></dwc:georeferenceProtocol>
+    <dwc:georeferenceSources></dwc:georeferenceSources>
+    <dwc:georeferenceVerificationStatus></dwc:georeferenceVerificationStatus>
+    <dwc:georeferenceRemarks></dwc:georeferenceRemarks>
+    <dwc:typeStatus></dwc:typeStatus>
+    <dwc:typeStatus></dwc:typeStatus>
+    <dwc:typeStatus></dwc:typeStatus>
+    <dwc:typeStatus></dwc:typeStatus>
+    <dwc:identifiedBy></dwc:identifiedBy>
+    <dwc:dateIdentified></dwc:dateIdentified> 
+    <dwc:scientificName>Crataegus mira Beadle</dwc:scientificName>
+    <dwc:higherClassification></dwc:higherClassification>
+    <dwc:family>Rosaceae</dwc:family>
+    <dwc:genus>Crataegus</dwc:genus>
+    <dwc:subgenus>subg. Americanae El-Gazzar|sect. Coccineae Loudon|ser. Apricae J.B. Phipps</dwc:subgenus>
+    <dwc:specificEpithet>mira</dwc:specificEpithet>
+  </SimpleDarwinRecord>
+</SimpleDarwinRecordSet>

@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<SimpleDarwinRecordSet 
+  xmlns="http://rs.tdwg.org/dwc/xsd/simpledarwincore/" 
+  xmlns:dwr="http://rs.tdwg.org/dwc/xsd/simpledarwincore/" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  xmlns:dwc="http://rs.tdwg.org/dwc/terms/" 
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  <SimpleDarwinRecord>
+    <dcterms:type>PreservedSpecimen</dcterms:type>
+    <dcterms:modified>2006-03-29</dcterms:modified>
+    <dcterms:language>English</dcterms:language>
+    <dcterms:rightsHolder>http://www.rom.on.ca/en/copyright-policy</dcterms:rightsHolder>
+    <dwc:institutionCode>Royal Ontario Museum</dwc:institutionCode>
+    <dwc:collectionCode>TRT</dwc:collectionCode>
+    <dwc:datasetName></dwc:datasetName>
+    <dwc:occurrenceID>1789489.0</dwc:occurrenceID>
+    <dwc:catalogNumber>TRT00001878</dwc:catalogNumber>
+    <dwc:recordNumber>1401-52</dwc:recordNumber>
+    <dwc:recordedBy>Dickinson, T.A.</dwc:recordedBy>
+    <dwc:recordedBy>Evans, R.C.</dwc:recordedBy>
+    <dwc:recordedBy></dwc:recordedBy>
+    <dwc:recordedBy></dwc:recordedBy>
+    <dwc:recordedBy></dwc:recordedBy>
+    <dwc:recordedBy></dwc:recordedBy>
+    <dwc:recordedBy></dwc:recordedBy>
+    <dwc:sex></dwc:sex>
+    <dwc:reproductiveCondition></dwc:reproductiveCondition>
+    <dwc:establishmentMeans>cultivated</dwc:establishmentMeans>
+    <dwc:preparations>dried plant specimen</dwc:preparations>
+    <dwc:disposition>1 replicate</dwc:disposition>
+    <dwc:associatedReferences></dwc:associatedReferences>
+    <dwc:otherCatalogNumbers></dwc:otherCatalogNumbers>
+    <dwc:occurrenceRemarks></dwc:occurrenceRemarks>
+    <dwc:occurrenceRemarks></dwc:occurrenceRemarks>
+    <dwc:occurrenceRemarks></dwc:occurrenceRemarks>
+    <dwc:occurrenceRemarks></dwc:occurrenceRemarks>
+    <dwc:organismID>1401-52-fall</dwc:organismID>
+    <dwc:previousIdentifications>Orig. det. as as Crataegus wattiana</dwc:previousIdentifications>
+    <dwc:eventDate>1993-09-08</dwc:eventDate>
+    <dwc:verbatimEventDate></dwc:verbatimEventDate>
+    <dwc:habitat>Botanical garden.</dwc:habitat>
+    <dwc:fieldNotes>Not in fruit.</dwc:fieldNotes>
+    <dwc:locationID>QC1</dwc:locationID>
+    <dwc:continent>North America</dwc:continent>
+    <dwc:country>Canada</dwc:country>
+    <dwc:stateProvince>Quebec</dwc:stateProvince>
+    <dwc:county></dwc:county>
+    <dwc:locality>Montreal, Jardin Botanique de Montreal, Arboretum</dwc:locality>
+    <dwc:verbatimLocality>Montreal, Jardin Botanique de Montreal, Arboretum</dwc:verbatimLocality>
+    <dwc:minimumElevationInMeters></dwc:minimumElevationInMeters>
+    <dwc:maximumElevationInMeters></dwc:maximumElevationInMeters>
+    <dwc:locationRemarks></dwc:locationRemarks>
+    <dwc:decimalLatitude></dwc:decimalLatitude>
+    <dwc:decimalLongitude></dwc:decimalLongitude>
+    <dwc:geodeticDatum></dwc:geodeticDatum>
+    <dwc:coordinateUncertaintyInMeters></dwc:coordinateUncertaintyInMeters>
+    <dwc:georeferencedBy></dwc:georeferencedBy>
+    <dwc:georeferenceDate></dwc:georeferenceDate>
+    <dwc:georeferenceProtocol></dwc:georeferenceProtocol>
+    <dwc:georeferenceSources></dwc:georeferenceSources>
+    <dwc:georeferenceVerificationStatus></dwc:georeferenceVerificationStatus>
+    <dwc:georeferenceRemarks></dwc:georeferenceRemarks>
+    <dwc:typeStatus></dwc:typeStatus>
+    <dwc:typeStatus></dwc:typeStatus>
+    <dwc:typeStatus></dwc:typeStatus>
+    <dwc:typeStatus></dwc:typeStatus>
+    <dwc:identifiedBy></dwc:identifiedBy>
+    <dwc:dateIdentified>2011-05-00</dwc:dateIdentified> 
+    <dwc:scientificName>Crataegus ×dsungarica Zabel ex Lange (= Crataegus songarica Koch × C. wattiana Hemsley & Lace)</dwc:scientificName>
+    <dwc:higherClassification></dwc:higherClassification>
+    <dwc:family>Rosaceae</dwc:family>
+    <dwc:genus>Crataegus</dwc:genus>
+    <dwc:subgenus>intersubgeneric hybrid|nothosect. Crataeguineae K.I. Chr.|unplaced interserial hybrid</dwc:subgenus>
+    <dwc:specificEpithet>×dsungarica</dwc:specificEpithet>
+  </SimpleDarwinRecord>
+</SimpleDarwinRecordSet>

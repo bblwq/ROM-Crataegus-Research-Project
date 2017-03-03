@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<SimpleDarwinRecordSet 
+  xmlns="http://rs.tdwg.org/dwc/xsd/simpledarwincore/" 
+  xmlns:dwr="http://rs.tdwg.org/dwc/xsd/simpledarwincore/" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  xmlns:dwc="http://rs.tdwg.org/dwc/terms/" 
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  <SimpleDarwinRecord>
+    <dcterms:type>PreservedSpecimen</dcterms:type>
+    <dcterms:modified>2005-03-15</dcterms:modified>
+    <dcterms:language>English</dcterms:language>
+    <dcterms:rightsHolder>http://www.rom.on.ca/en/copyright-policy</dcterms:rightsHolder>
+    <dwc:institutionCode>Royal Ontario Museum</dwc:institutionCode>
+    <dwc:collectionCode>TRT</dwc:collectionCode>
+    <dwc:datasetName></dwc:datasetName>
+    <dwc:occurrenceID>1789126.0</dwc:occurrenceID>
+    <dwc:catalogNumber>TRT00002114</dwc:catalogNumber>
+    <dwc:recordNumber>D1687</dwc:recordNumber>
+    <dwc:recordedBy>Dickinson, T.A.</dwc:recordedBy>
+    <dwc:recordedBy></dwc:recordedBy>
+    <dwc:recordedBy></dwc:recordedBy>
+    <dwc:recordedBy></dwc:recordedBy>
+    <dwc:recordedBy></dwc:recordedBy>
+    <dwc:recordedBy></dwc:recordedBy>
+    <dwc:recordedBy></dwc:recordedBy>
+    <dwc:sex></dwc:sex>
+    <dwc:reproductiveCondition></dwc:reproductiveCondition>
+    <dwc:establishmentMeans></dwc:establishmentMeans>
+    <dwc:preparations>dried plant specimen</dwc:preparations>
+    <dwc:disposition>2 replicates</dwc:disposition>
+    <dwc:associatedReferences></dwc:associatedReferences>
+    <dwc:otherCatalogNumbers></dwc:otherCatalogNumbers>
+    <dwc:occurrenceRemarks></dwc:occurrenceRemarks>
+    <dwc:occurrenceRemarks></dwc:occurrenceRemarks>
+    <dwc:occurrenceRemarks></dwc:occurrenceRemarks>
+    <dwc:occurrenceRemarks></dwc:occurrenceRemarks>
+    <dwc:organismID>D1687</dwc:organismID>
+    <dwc:previousIdentifications></dwc:previousIdentifications>
+    <dwc:eventDate>1996-05-21</dwc:eventDate>
+    <dwc:verbatimEventDate></dwc:verbatimEventDate>
+    <dwc:habitat></dwc:habitat>
+    <dwc:fieldNotes>Anthers 20, style 3-5.</dwc:fieldNotes>
+    <dwc:locationID>PA4</dwc:locationID>
+    <dwc:continent>North America</dwc:continent>
+    <dwc:country>United States</dwc:country>
+    <dwc:stateProvince>Pennsylvania</dwc:stateProvince>
+    <dwc:county>Bedford Co.</dwc:county>
+    <dwc:locality>Southampton Tp., SR326, W of Black Valley Gap, 0.9 km S of creek crossing and sign (N-bound) 'Chaneysville 6 mi'.</dwc:locality>
+    <dwc:verbatimLocality>Southampton Twp., SR326, W of Black Valley Gap, 0.9 km S of creek crossing and sign (N-bound) "Chaneysville 6 miles"</dwc:verbatimLocality>
+    <dwc:minimumElevationInMeters></dwc:minimumElevationInMeters>
+    <dwc:maximumElevationInMeters></dwc:maximumElevationInMeters>
+    <dwc:locationRemarks></dwc:locationRemarks>
+    <dwc:decimalLatitude></dwc:decimalLatitude>
+    <dwc:decimalLongitude></dwc:decimalLongitude>
+    <dwc:geodeticDatum></dwc:geodeticDatum>
+    <dwc:coordinateUncertaintyInMeters></dwc:coordinateUncertaintyInMeters>
+    <dwc:georeferencedBy></dwc:georeferencedBy>
+    <dwc:georeferenceDate></dwc:georeferenceDate>
+    <dwc:georeferenceProtocol></dwc:georeferenceProtocol>
+    <dwc:georeferenceSources></dwc:georeferenceSources>
+    <dwc:georeferenceVerificationStatus></dwc:georeferenceVerificationStatus>
+    <dwc:georeferenceRemarks></dwc:georeferenceRemarks>
+    <dwc:typeStatus></dwc:typeStatus>
+    <dwc:typeStatus></dwc:typeStatus>
+    <dwc:typeStatus></dwc:typeStatus>
+    <dwc:typeStatus></dwc:typeStatus>
+    <dwc:identifiedBy></dwc:identifiedBy>
+    <dwc:dateIdentified></dwc:dateIdentified> 
+    <dwc:scientificName>indet.</dwc:scientificName>
+    <dwc:higherClassification></dwc:higherClassification>
+    <dwc:family>Rosaceae</dwc:family>
+    <dwc:genus>Crataegus</dwc:genus>
+    <dwc:subgenus>subg. Americanae El-Gazzar|sect. Coccineae Loudon|series unplaced</dwc:subgenus>
+    <dwc:specificEpithet></dwc:specificEpithet>
+  </SimpleDarwinRecord>
+</SimpleDarwinRecordSet>

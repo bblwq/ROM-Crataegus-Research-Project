@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<SimpleDarwinRecordSet 
+  xmlns="http://rs.tdwg.org/dwc/xsd/simpledarwincore/" 
+  xmlns:dwr="http://rs.tdwg.org/dwc/xsd/simpledarwincore/" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  xmlns:dwc="http://rs.tdwg.org/dwc/terms/" 
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  <SimpleDarwinRecord>
+    <dcterms:type>PreservedSpecimen</dcterms:type>
+    <dcterms:modified>2014-05-07</dcterms:modified>
+    <dcterms:language>English</dcterms:language>
+    <dcterms:rightsHolder>http://www.rom.on.ca/en/copyright-policy</dcterms:rightsHolder>
+    <dwc:institutionCode>Royal Ontario Museum</dwc:institutionCode>
+    <dwc:collectionCode>TRT</dwc:collectionCode>
+    <dwc:datasetName></dwc:datasetName>
+    <dwc:occurrenceID>1794874.0</dwc:occurrenceID>
+    <dwc:catalogNumber>TRT00002851</dwc:catalogNumber>
+    <dwc:recordNumber>1632</dwc:recordNumber>
+    <dwc:recordedBy>Christensen, K.I.</dwc:recordedBy>
+    <dwc:recordedBy>Moller, K.B.</dwc:recordedBy>
+    <dwc:recordedBy>Anagnostopoulos A.</dwc:recordedBy>
+    <dwc:recordedBy>Diemar, S.</dwc:recordedBy>
+    <dwc:recordedBy></dwc:recordedBy>
+    <dwc:recordedBy></dwc:recordedBy>
+    <dwc:recordedBy></dwc:recordedBy>
+    <dwc:sex></dwc:sex>
+    <dwc:reproductiveCondition></dwc:reproductiveCondition>
+    <dwc:establishmentMeans></dwc:establishmentMeans>
+    <dwc:preparations>dried plant specimen</dwc:preparations>
+    <dwc:disposition>1 replicate</dwc:disposition>
+    <dwc:associatedReferences></dwc:associatedReferences>
+    <dwc:otherCatalogNumbers></dwc:otherCatalogNumbers>
+    <dwc:occurrenceRemarks></dwc:occurrenceRemarks>
+    <dwc:occurrenceRemarks></dwc:occurrenceRemarks>
+    <dwc:occurrenceRemarks></dwc:occurrenceRemarks>
+    <dwc:occurrenceRemarks></dwc:occurrenceRemarks>
+    <dwc:organismID></dwc:organismID>
+    <dwc:previousIdentifications></dwc:previousIdentifications>
+    <dwc:eventDate>1987-08-20</dwc:eventDate>
+    <dwc:verbatimEventDate></dwc:verbatimEventDate>
+    <dwc:habitat>Roadside.</dwc:habitat>
+    <dwc:fieldNotes>Shrub c. 4m tall.</dwc:fieldNotes>
+    <dwc:locationID></dwc:locationID>
+    <dwc:continent>Europe</dwc:continent>
+    <dwc:country>Greece</dwc:country>
+    <dwc:stateProvince></dwc:stateProvince>
+    <dwc:county></dwc:county>
+    <dwc:locality>Crete, Prov. Iraklion, Along the road from Gazio to Ag. Miron, c. 1 km after the village of Voutes.</dwc:locality>
+    <dwc:verbatimLocality>Crete, Prov. Iraklion, Along the road from Gazio to Ag. Miron, c. 1 km after the village of Voutes.</dwc:verbatimLocality>
+    <dwc:minimumElevationInMeters>320.0</dwc:minimumElevationInMeters>
+    <dwc:maximumElevationInMeters></dwc:maximumElevationInMeters>
+    <dwc:locationRemarks></dwc:locationRemarks>
+    <dwc:decimalLatitude></dwc:decimalLatitude>
+    <dwc:decimalLongitude></dwc:decimalLongitude>
+    <dwc:geodeticDatum></dwc:geodeticDatum>
+    <dwc:coordinateUncertaintyInMeters></dwc:coordinateUncertaintyInMeters>
+    <dwc:georeferencedBy></dwc:georeferencedBy>
+    <dwc:georeferenceDate></dwc:georeferenceDate>
+    <dwc:georeferenceProtocol></dwc:georeferenceProtocol>
+    <dwc:georeferenceSources></dwc:georeferenceSources>
+    <dwc:georeferenceVerificationStatus></dwc:georeferenceVerificationStatus>
+    <dwc:georeferenceRemarks></dwc:georeferenceRemarks>
+    <dwc:typeStatus></dwc:typeStatus>
+    <dwc:typeStatus></dwc:typeStatus>
+    <dwc:typeStatus></dwc:typeStatus>
+    <dwc:typeStatus></dwc:typeStatus>
+    <dwc:identifiedBy></dwc:identifiedBy>
+    <dwc:dateIdentified></dwc:dateIdentified> 
+    <dwc:scientificName>Crataegus azarolus var. aronia L.</dwc:scientificName>
+    <dwc:higherClassification></dwc:higherClassification>
+    <dwc:family>Rosaceae</dwc:family>
+    <dwc:genus>Crataegus</dwc:genus>
+    <dwc:subgenus>subg. Crataegus|sect. Crataegus|ser. Orientales (C.K. Schneid.) Pojark.</dwc:subgenus>
+    <dwc:specificEpithet>azarolus</dwc:specificEpithet>
+  </SimpleDarwinRecord>
+</SimpleDarwinRecordSet>

@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<SimpleDarwinRecordSet 
+  xmlns="http://rs.tdwg.org/dwc/xsd/simpledarwincore/" 
+  xmlns:dwr="http://rs.tdwg.org/dwc/xsd/simpledarwincore/" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  xmlns:dwc="http://rs.tdwg.org/dwc/terms/" 
+  xmlns:dcterms="http://purl.org/dc/terms/">
+  <SimpleDarwinRecord>
+    <dcterms:type>PreservedSpecimen</dcterms:type>
+    <dcterms:modified>2014-07-31</dcterms:modified>
+    <dcterms:language>English</dcterms:language>
+    <dcterms:rightsHolder>http://www.rom.on.ca/en/copyright-policy</dcterms:rightsHolder>
+    <dwc:institutionCode>Royal Ontario Museum</dwc:institutionCode>
+    <dwc:collectionCode>TRT</dwc:collectionCode>
+    <dwc:datasetName></dwc:datasetName>
+    <dwc:occurrenceID>1799919.0</dwc:occurrenceID>
+    <dwc:catalogNumber>TRT00011853</dwc:catalogNumber>
+    <dwc:recordNumber>6049</dwc:recordNumber>
+    <dwc:recordedBy>Michener, D.</dwc:recordedBy>
+    <dwc:recordedBy>Griffin, R.</dwc:recordedBy>
+    <dwc:recordedBy></dwc:recordedBy>
+    <dwc:recordedBy></dwc:recordedBy>
+    <dwc:recordedBy></dwc:recordedBy>
+    <dwc:recordedBy></dwc:recordedBy>
+    <dwc:recordedBy></dwc:recordedBy>
+    <dwc:sex></dwc:sex>
+    <dwc:reproductiveCondition></dwc:reproductiveCondition>
+    <dwc:establishmentMeans></dwc:establishmentMeans>
+    <dwc:preparations>dried plant specimen</dwc:preparations>
+    <dwc:disposition>1 replicate</dwc:disposition>
+    <dwc:associatedReferences></dwc:associatedReferences>
+    <dwc:otherCatalogNumbers></dwc:otherCatalogNumbers>
+    <dwc:occurrenceRemarks></dwc:occurrenceRemarks>
+    <dwc:occurrenceRemarks></dwc:occurrenceRemarks>
+    <dwc:occurrenceRemarks></dwc:occurrenceRemarks>
+    <dwc:occurrenceRemarks></dwc:occurrenceRemarks>
+    <dwc:organismID></dwc:organismID>
+    <dwc:previousIdentifications></dwc:previousIdentifications>
+    <dwc:eventDate>1987-10-13</dwc:eventDate>
+    <dwc:verbatimEventDate></dwc:verbatimEventDate>
+    <dwc:habitat></dwc:habitat>
+    <dwc:fieldNotes>Single-trunked tree 4 m tall; 5 cm dbh; branching average; habit typical; fruit shiny, elliptical.</dwc:fieldNotes>
+    <dwc:locationID></dwc:locationID>
+    <dwc:continent>North America</dwc:continent>
+    <dwc:country>United States</dwc:country>
+    <dwc:stateProvince>Massachusetts</dwc:stateProvince>
+    <dwc:county></dwc:county>
+    <dwc:locality>Jamaica Plain (Boston); Arnold Arboretum (A) of Harvard University; ; Map Loc.: 57-a</dwc:locality>
+    <dwc:verbatimLocality>Jamaica Plain (Boston); Arnold Arboretum (A) of Harvard University; Map location: 57-a</dwc:verbatimLocality>
+    <dwc:minimumElevationInMeters></dwc:minimumElevationInMeters>
+    <dwc:maximumElevationInMeters></dwc:maximumElevationInMeters>
+    <dwc:locationRemarks></dwc:locationRemarks>
+    <dwc:decimalLatitude></dwc:decimalLatitude>
+    <dwc:decimalLongitude></dwc:decimalLongitude>
+    <dwc:geodeticDatum></dwc:geodeticDatum>
+    <dwc:coordinateUncertaintyInMeters></dwc:coordinateUncertaintyInMeters>
+    <dwc:georeferencedBy></dwc:georeferencedBy>
+    <dwc:georeferenceDate></dwc:georeferenceDate>
+    <dwc:georeferenceProtocol></dwc:georeferenceProtocol>
+    <dwc:georeferenceSources></dwc:georeferenceSources>
+    <dwc:georeferenceVerificationStatus></dwc:georeferenceVerificationStatus>
+    <dwc:georeferenceRemarks></dwc:georeferenceRemarks>
+    <dwc:typeStatus></dwc:typeStatus>
+    <dwc:typeStatus></dwc:typeStatus>
+    <dwc:typeStatus></dwc:typeStatus>
+    <dwc:typeStatus></dwc:typeStatus>
+    <dwc:identifiedBy></dwc:identifiedBy>
+    <dwc:dateIdentified></dwc:dateIdentified> 
+    <dwc:scientificName>Crataegus ×grignonensis Mouillefert ex Anonymous (= Crataegus mexicana Moc. & Sessé ex DC. × C. monogyna Jacq.)</dwc:scientificName>
+    <dwc:higherClassification></dwc:higherClassification>
+    <dwc:family>Rosaceae</dwc:family>
+    <dwc:genus>Crataegus</dwc:genus>
+    <dwc:subgenus>intersubgeneric hybrid|C. sect. Coccineae × C. sect. Crataegus|C. ser. Punctatae × C. ser. Crataegus</dwc:subgenus>
+    <dwc:specificEpithet>×grignonensis</dwc:specificEpithet>
+  </SimpleDarwinRecord>
+</SimpleDarwinRecordSet>
