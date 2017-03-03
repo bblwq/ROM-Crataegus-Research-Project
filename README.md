@@ -1,5 +1,4 @@
 #Program Instruction
-
 1. Install Python 2.7 (32-bit) from: https://www.python.org/ftp/python/2.7.13/python-2.7.13.msi
 2. Make sure the following 'Path' are added to 'System variables':
    C:\Python27\
@@ -11,7 +10,7 @@
                  pip install pytz
 4. Install pandas.
    CMD command: pip install pandas
-5. Install ImageMagick (32-bit) from http://www.imagemagick.org/download/binaries/ImageMagick-6.9.7-1-Q8-x86-dll.exe
+5. Install latest ImageMagick (32-bit) from http://www.imagemagick.org/download/binaries/
 6. Make sure the following 'Path' are added to 'System variables':
    C:\Program Files (x86)\ImageMagick-6.9.6-Q8
 7. Install Wand (and all dependncies if necessary):
